@@ -7,7 +7,7 @@ def valid_move?(board,index)
     end
   end
   
-  index.between?(0,8) && !postion_take?(board, index)
+  index.between?(0,8) && !postion_taken?(board, index)
 end 
 
 
