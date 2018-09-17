@@ -22,6 +22,6 @@ def position_taken? (board, index)
     isTaken = true 
   end
   
-  isTaken
+  isTa
   
 end
